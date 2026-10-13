@@ -40,7 +40,7 @@ mdurl==0.1.2
 ml-collections==0.1.0
 msgpack==1.0.4
 numpy==1.24.1
-oauthlib==3.2.2
+oauthlib==4.0.0
 opt-einsum==3.3.0
 optax==0.1.4
 orbax==0.1.1
@@ -81,7 +81,7 @@ toml==0.10.2
 toolz==0.12.0
 tqdm==4.64.1
 typing_extensions==4.4.0
-urllib3==1.26.14
+urllib3==2.8.0
 urwid==2.1.2
 urwid-readline==0.13
 Werkzeug==2.2.2
