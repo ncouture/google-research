@@ -19,7 +19,7 @@ comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
 contourpy==1.2.1
 cycler==0.12.1
 dataset==1.6.2
-datasets==2.20.0
+datasets==5.1.0
 debugpy @ file:///home/conda/feedstock_root/build_artifacts/debugpy_1719378673901/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 dill==0.3.8
@@ -34,9 +34,9 @@ executing @ file:///home/conda/feedstock_root/build_artifacts/executing_16985799
 filelock==3.16.1
 fonttools==4.53.1
 frozenlist==1.4.1
-fsspec==2024.5.0
+fsspec==2026.6.0
 gitdb==4.0.11
-GitPython==3.1.43
+GitPython==3.1.62
 google==3.0.0
 google-ai-generativelanguage==0.6.6
 google-api-core==2.19.0
@@ -160,7 +160,7 @@ typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_ext
 tyro==0.8.4
 tzdata==2024.1
 uritemplate==4.1.1
-urllib3==2.2.2
+urllib3==2.8.0
 wandb==0.17.2
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 xxhash==3.4.1
