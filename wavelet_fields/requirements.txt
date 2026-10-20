@@ -38,10 +38,10 @@ flatbuffers==23.5.26
 fonttools==4.40.0
 freetype-py==2.4.0
 frozenlist @ file:///home/conda/feedstock_root/build_artifacts/frozenlist_1667935432857/work
-fsspec==2023.12.2
+fsspec==2026.6.0
 future==0.18.3
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.1.62
 glcontext==2.3.7
 google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1686724583094/work
 google-auth-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/google-auth-oauthlib_1630497468950/work
@@ -190,7 +190,7 @@ tinycss2==1.2.1
 tomli==2.0.1
 torch==1.8.0
 torchvision==0.8.2
-tornado==6.3.2
+tornado==6.5.9
 tqdm @ file:///croot/tqdm_1679561862951/work
 traitlets==5.9.0
 trimesh==3.22.1
@@ -198,7 +198,7 @@ triton==2.1.0
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1685704949284/work
 tzdata==2023.3
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1678635778344/work
-virtualenv==20.23.0
+virtualenv==21.7.13
 visdom==0.2.4
 wandb==0.15.4
 wcwidth==0.2.6
