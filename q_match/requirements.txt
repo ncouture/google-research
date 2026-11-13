@@ -47,7 +47,7 @@ orbax==0.1.1
 packaging==23.0
 pandas==1.5.3
 parso==0.8.3
-Pillow==9.4.0
+Pillow==13.0.0
 promise==2.3
 protobuf==3.19.6
 psutil==5.9.4
@@ -82,7 +82,7 @@ toolz==0.12.0
 tqdm==4.64.1
 typing_extensions==4.4.0
 urllib3==1.26.14
-urwid==2.1.2
+urwid==4.0.7
 urwid-readline==0.13
 Werkzeug==2.2.2
 wrapt==1.14.1
