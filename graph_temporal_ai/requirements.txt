@@ -1,5 +1,5 @@
 numpy>=1.15.0, <1.21.0
-pytorch-lightning==1.7.3
+pytorch-lightning==2.6.1
 ray[default]==2.0.0
 ray[tune]==2.0.0
 scipy==1.9.3
