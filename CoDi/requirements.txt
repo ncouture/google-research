@@ -1,5 +1,5 @@
 absl-py==2.0.0
-aiohttp==3.9.1
+aiohttp==3.14.4
 aiosignal==1.3.1
 async-timeout==4.0.3
 attrs==23.1.0
@@ -51,7 +51,7 @@ optax==0.1.7
 orbax-checkpoint==0.2.3
 packaging==23.2
 pandas==2.0.3
-Pillow==10.1.0
+Pillow==13.0.0
 pyarrow==14.0.1
 pyarrow-hotfix==0.6
 Pygments==2.17.2
